@@ -1,5 +1,5 @@
-# 凯尼科技 · 官网源码
+# 凯尼科技
 
-[前去瞧瞧~](https://kiny.paperplane.cc/)  
+[前去瞧瞧~](https://kiny.paperplane.cc/)
 
-[![Build Status](https://drone.paperplane.cc/api/badges/jia-niang/kiny-tech/status.svg)](https://drone.paperplane.cc/jia-niang/kiny-tech)
+注意，这是一个娱乐性质的项目，它的有效期仅限 2019 年内。

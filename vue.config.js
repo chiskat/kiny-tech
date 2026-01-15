@@ -1,7 +1,10 @@
 const path = require('path')
 
 module.exports = {
-  publicPath: 'https://cdn.paperplane.cc/paperplane-kiny/',
+  publicPath:
+    process.env.NODE_ENV === 'production'
+      ? 'https://cdn.paperplane.cc/paperplane-kiny/'
+      : undefined,
 
   pluginOptions: {
     'style-resources-loader': {
