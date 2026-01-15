@@ -35,8 +35,8 @@
     <div class="author">
       <img src="@img/sn-icon.png" class="author-icon" />
       <div class="author-item">
-        <div class="author-text">Copyright © 2017-2020</div>
-        <div class="author-text">via Frank (s1n1an).</div>
+        <div class="author-text">Copyright © 2017-{{year}}</div>
+        <div class="author-text">by Chiskat</div>
       </div>
     </div>
   </main>
@@ -53,6 +53,7 @@ export default {
     return {
       photoNum: 1,
       kinyPhoto,
+      year: new Date().getFullYear()
     }
   },
 

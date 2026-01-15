@@ -2,7 +2,7 @@
   <main>
     <div class="title">
       <h1>服务与报价表</h1>
-      <h6>via 2019-10-10</h6>
+      <h6>发布于 2019-10-10</h6>
     </div>
 
     <div class="content">
